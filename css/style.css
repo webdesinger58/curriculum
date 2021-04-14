@@ -1,0 +1,29 @@
+body{
+	display:flex;
+}
+
+.contenedor{
+	border: 1px solid#000000;
+	margin:0 auto;
+	width:60%;
+	background:#FCD9DD;
+	padding: 10px;
+}
+
+.principal{
+   background: #97A2FF;
+   padding: 10px;	
+}
+
+.header{
+ display: flex;
+}
+.nombre{
+	margin-left: 40px;
+	width:100%;
+}
+
+.titulo{
+	border: 1px solid #000000;
+   padding: 10px;	
+	color:#97A2FF;
